@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guizucolotto
 - 👀 I’m interested in Data Science and Sports
-- 🌱 I’m currently developing strategy using data capabilities
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently developing a strategy using data capabilities
+- 💞️ I’m looking to collaborate on MLOps and Data Strategy
 - 📫 How to reach me Twitter @guidolino
 
 <!---
